@@ -1,0 +1,1 @@
+ A reminder to start leaving the session when the timer has expired.
